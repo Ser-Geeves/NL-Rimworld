@@ -1,10 +1,3 @@
-NL-Rimworld
-===========
+THIS REPOSITORIY IS DEPRECATED. Check the updated one at https://github.com/Ludeon/RimWorld-Dutch
 
-Dutch translation of Rimworld
-
-All copyrights are owned by Ludeon studios. License info here: http://ludeon.com/forums/index.php?topic=2933
-
-Translators:
--Ser-Geeves
--ConfusedWings
+Talk to Tynan if you want to work on it! tynan.sylvester@gmail.com
